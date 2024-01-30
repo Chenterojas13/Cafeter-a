@@ -1,0 +1,242 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.imagen_coffe img{
+    width: 100%;
+    height: 350px;
+}
+   
+.fondo{
+    margin-top: -5px;
+    background-color: black;
+    width: 100%;
+    height: 130vh;
+    position: absolute;
+}
+
+.recuadro{
+    top:-120px;
+    width: 1000px;
+    height: 550px;
+    background-color: rgb(15, 14, 14);
+    margin: 0 auto;
+    position: relative;
+   
+}
+.titulo{
+    width: 100%;
+    position: absolute;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    z-index: 1;
+    
+    
+
+}
+.titulo img{
+    position: absolute;
+    margin-top:-50px ;
+    justify-content: center;
+    align-items: center;
+    margin-right: 60px;
+    z-index: 2;
+   
+}
+.cuadros{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+   
+}
+.cuadro1{
+    width: 350px;
+    height: 350px;
+    margin-top: 150px;
+    
+  
+    
+}
+.cuadro1 img{
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+    
+}
+.texto{
+    display: flex;
+    justify-content: center;
+    color: white;font-size: 25px;
+    gap: 60px;
+}
+
+.cuadro2{
+    width: 350px;
+    height: 350px;
+    margin-top: 150px;
+    
+}
+.cuadro2 img{
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+  
+}
+.texto{
+    display: flex;
+    justify-content: center;
+    color: white;font-size: 25px;
+    gap: 20px;
+}
+
+.cuadro3{
+    width: 350px;
+    height: 350px;
+    margin-top: 150px;
+    
+}
+.cuadro3 img{
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+    
+}
+.texto{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 23px;
+    
+}
+.boton{
+    width: 50px;
+    background-color: rgb(69, 83, 39);
+    border-radius: 5px;
+    color: white;
+    font-size: 13px;
+    cursor: pointer;
+   
+}
+.estrella{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+    
+
+}
+.estrella img{
+    width: 30px;
+    height: 25px;
+    margin-top: 20px;
+    gap: 10px;
+   
+
+}
+.estrella p{
+    width: 100%;
+    color: white;
+    font-size: 18px;
+    
+   
+    
+}
+.votos p{
+   
+margin-top: 20px;
+
+
+}
+.recuadro2{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    margin-top: 1200px;
+}
+.cuadro4{
+    width: 350px;
+    height: 350px;
+    
+}
+
+.cuadro4 img{
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+    
+}
+.texto{
+    display: flex;
+    justify-content: center;
+    color: white;font-size: 25px;
+    gap: 20px;
+}
+
+.cuadro5{
+    width: 350px;
+    height: 350px;
+    
+}
+.cuadro5 img{
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+   
+}
+.texto{
+    display: flex;
+    justify-content: center;
+    color: white;font-size: 25px;
+    gap: 20px;
+}
+
+.cuadro6{
+    width: 350px;
+    height: 350px;
+    
+}
+.cuadro6 img{
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+    
+}
+
+.estrella1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+    
+
+}
+
+.estrella1 img{
+    width: 30px;
+    height: 25px;
+    margin-top: 20px;
+    gap: 10px;
+   
+    
+
+   
+   
+}
+.estrella1 p{
+    width: 100%;
+    color: white;
+    font-size: 18px;
+    
+   
+    
+}
+
